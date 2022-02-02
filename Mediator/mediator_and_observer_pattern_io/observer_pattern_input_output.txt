@@ -1,0 +1,35 @@
+Input:
+1
+2 << from premium user >>
+2 << from regular user >>
+2
+0
+2
+1 << from regular user >>
+0
+
+Output:
+Premium user prompt: Server is partially down now. Do you want to use service from two servers (partially from the server of our company and partially from the server of DEF company) or from one server (server of DEF company)? 
+Please choose:
+1. one server
+2. two servers
+
+Regular user prompt: Server is partially down now. Do you want to continue using the limited functionality or pay $20 per hour to enjoy the full functionality taking service from server of DEF company? In the 2nd case, all your data will be copied to the server of DEF company.
+Please choose:
+1. limited functionality
+2. pay for full functionality
+
+Premium user prompt: Server is fully down now. All of your services has been shifted to the server of DEF company.
+Regular user prompt: Server is fully down now. 
+
+Premium user prompt: Now the server is operational again.
+Regular user prompt: Now the server is operational again. Your total bill: x taka 
+
+Premium user prompt: Server is fully down now. Service is now being provided by DEF company.
+Regular user prompt: Server is fully down now. Do you want to pay $20 per hour to take service from the server of DEF company? Note that, it will copy all your data to the server of DEF company.
+Please choose:
+1. yes, pay $20 per hour
+2. no
+
+Premium user prompt: Now the server is operational again.
+Regular user prompt: Now the server is operational again. Your total bill: x taka 
